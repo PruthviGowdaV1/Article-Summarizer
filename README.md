@@ -24,7 +24,7 @@ Follow these steps to install and set up Sumz on your local machine:
 
 Clone the repository:  
 
-`git clone https://github.com/jbxamora/articlesumz.git` . 
+`https://github.com/PruthviGowdaV1/Article-Summarizer.git` . 
   
 Install Dependencies:  
   
