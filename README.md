@@ -13,7 +13,7 @@ Sumz is an open-source article summarization tool powered by the advanced capabi
 
 ## Current Deployment
 
-![Sumz Deployment](https://user-images.githubusercontent.com/113067058/234990467-a2b4e4df-99b1-47e8-bc67-1c0f4e1e92c5.png)
+![sumz](https://github.com/PruthviGowdaV1/Article-Summarizer/assets/140374124/a6d6bd48-0372-4bbc-a082-b583ca096f53)
 
 
 [Deployed Site](https://articlesumz.onrender.com/)
